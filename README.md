@@ -1,4 +1,3 @@
-# customer-churn-retention-analytics
 # Customer Churn & Retention Analytics
 
 An end-to-end customer churn and retention analytics project using **Python, MySQL, Excel, Streamlit, and Tableau** to identify customer churn patterns, understand retention trends, and generate actionable business insights.
