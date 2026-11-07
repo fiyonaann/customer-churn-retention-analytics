@@ -37,7 +37,7 @@ This project analyzes the IBM Telco Customer Churn dataset to explore customer b
 Customer-Churn-Retention-Analytics/
 │
 ├── data/
-│   ├── Telco-Customer-Churn.csv
+│   
 │   └── cleaned_customer_churn.csv
 │
 ├── python/
