@@ -1,0 +1,29 @@
+CUSTOMER CHURN & RETENTION ANALYTICS
+Excel Analysis Findings
+
+1. Overall Customer Churn
+Total Customers: 7,043
+Customers Who Left: 1,869
+Customers Who Stayed: 5,174
+Churn Rate: 26.54%
+Retention Rate: 73.46%
+
+2. Churn by Contract Type
+Month-to-month contracts have the highest churn rate (42.71%).
+One-year contracts have a churn rate of 11.27%.
+Two-year contracts have the lowest churn rate (2.83%).
+
+3. Churn by Internet Service
+Fiber optic customers have the highest churn rate (41.89%).
+DSL customers have a churn rate of 18.96%.
+Customers without internet service have a churn rate of 7.40%.
+
+4. Churn by Tenure
+Customers in their first 12 months show the highest churn rate.
+Churn rates generally decrease as customer tenure increases.
+
+Business Recommendations
+- Encourage customers to choose longer-term contracts.
+- Investigate why fiber optic customers have higher churn.
+- Improve onboarding and support for new customers.
+- Introduce targeted retention offers for customers at risk of leaving.
